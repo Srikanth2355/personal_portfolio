@@ -1,0 +1,22 @@
+.Contact{
+    text-align: center;
+    background-color: #ebeeee;
+    color: black;
+    padding: 10px;
+}
+.Contact h2 {
+    margin: 0px;
+    margin-bottom: 20px;
+}
+.mediaiconscontact a{
+    color: black;
+    padding: 10px;
+    font-size: 40px;
+    cursor: pointer;
+    padding-right: 20px;
+    font-family: 'FontAwesome';
+}
+.mediaiconscontact {
+    display: flex;
+    justify-content: center;
+}

@@ -1,0 +1,16 @@
+.skills_div {
+    text-align: center;
+}
+.skill_names {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+.skill_names h3 {
+    padding: 20px;
+    margin: 0px;
+    margin-bottom: 10px;
+}
+h2 {
+    margin: 5px;
+}
