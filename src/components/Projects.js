@@ -40,9 +40,9 @@ function Projects() {
                         image="/images/netflix.png"
                     />
                     <Image 
-                        link="https://www.google.com" 
-                        para="Tindog website" 
-                        image="/images/twitter.png"
+                        link="https://sritiktoksclone.netlify.app/" 
+                        para="Tiktoks" 
+                        image="/images/tiktoksclone.png"
                     />
                     <Image 
                         link="https://www.google.com" 
